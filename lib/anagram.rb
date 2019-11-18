@@ -9,9 +9,7 @@ class Anagram
   end            
   
   def match (other_words)
-    other_words.each |word|
-      word
-    
+    other_words.
   end
     binding.pry
   
